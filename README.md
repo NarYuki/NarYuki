@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+<p align="left">
+  <a href="https://github.com/yutkat/yutkat/">
+    <img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" />
+  </a>
+  <a href="http://twitter.com/yutkat">
+    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/yutkat">
+    <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
 <!--
 **NarYuki/NarYuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
