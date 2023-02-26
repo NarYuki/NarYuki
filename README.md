@@ -13,10 +13,10 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NarYuki&count_private=true&show_icons=true" />
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=NarYuki&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarYuki&layout=compact" />
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarYuki&layout=compact" />
 </a>
 
 
