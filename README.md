@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 <p align="left">
-  <a href="https://github.com/yutkat/yutkat/">
-    <img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" />
+  <a href="https://github.com/NarYuki/NarYuki/">
+    <img src="https://komarev.com/ghpvc/?username=NarYuki" alt="NarYuki" />
   </a>
-  <a href="http://twitter.com/yutkat">
-    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://twitter.com/SCV41">
+    <img height="20" src="https://img.shields.io/twitter/follow/SCV41?label=Twitter&logo=twitter&style=flat" />
   </a>
-  <a href="https://github.com/yutkat">
-    <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+  <a href="https://github.com/NarYuki">
+    <img height="20" src="https://img.shields.io/github/followers/NarYuki?label=follow&logo=github&style=flat" />
   </a>
 </p>
 
