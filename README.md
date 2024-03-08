@@ -1,22 +1,22 @@
 ### Hi there 👋
 
 <p align="left">
-  <a href="https://github.com/NarYuki/NarYuki/">
-    <img src="https://komarev.com/ghpvc/?username=NarYuki" alt="NarYuki" />
+  <a href="https://github.com/NarYukk/NarYukk/">
+    <img src="https://komarev.com/ghpvc/?username=NarYukk" alt="NarYukk" />
   </a>
 <!--  <a href="http://twitter.com/SCV41">
     <img height="20" src="https://img.shields.io/twitter/follow/SCV41?label=Twitter&logo=twitter&style=flat" />
   </a> --> 
-  <a href="https://github.com/NarYuki">
+  <a href="https://github.com/NarYukk">
     <img height="20" src="https://img.shields.io/github/followers/NarYuki?label=follow&logo=github&style=flat" />
   </a>
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="140px" src="https://github-readme-stats.vercel.app/api?username=NarYuki&count_private=true&show_icons=true" />
+  <img align="left" height="140px" src="https://github-readme-stats.vercel.app/api?username=NarYukk&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarYuki&layout=compact" />
+  <img align="left" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarYukk&layout=compact" />
 </a>
 
 
