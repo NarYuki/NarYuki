@@ -8,7 +8,7 @@
     <img height="20" src="https://img.shields.io/twitter/follow/SCV41?label=Twitter&logo=twitter&style=flat" />
   </a> --> 
   <a href="https://github.com/NarYukk">
-    <img height="20" src="https://img.shields.io/github/followers/NarYuki?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/NarYukk?label=follow&logo=github&style=flat" />
   </a>
 </p>
 
