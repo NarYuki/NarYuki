@@ -10,8 +10,8 @@
   </a>
 </p>
 
-![NarYuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=NarYui&show_icons=true&theme=transparent)
+![NarYuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=NarYuki&show_icons=true&theme=transparent)
 
 # 🛠️ My Skills
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=python,js,firebase,cloudflare,postgres,sqlite,git,linux,markdown" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=python,js,firebase,cloudflare,mysql,sqlite,git,linux,markdown" />
