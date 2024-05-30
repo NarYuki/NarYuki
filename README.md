@@ -11,7 +11,7 @@
 </p>
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarYuki&layout=compact&show_icons=true&theme=vue&hide=jupyter%20notebook,Makefile,CMake" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarYuki&layout=compact&show_icons=true&theme=vue&hide=jupyter%20notebook,Makefile,CMake,TeX,ShaderLab,ASL" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=NarYuki&theme=vue&show_icons=ture" />
 </p>
 
