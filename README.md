@@ -11,8 +11,8 @@
 </p>
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarYuki&layout=compact&show_icons=true&theme=vue&hide=jupyter%20notebook,Makefile,CMake,TeX" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=NarYuki" />
+  <img alt="Top Langs" height="150px" src="https://readme-vercel.nrr.moe/api/top-langs/?username=NarYuki&layout=compact&show_icons=true&theme=vue&hide=jupyter%20notebook,Makefile,CMake,TeX&count_private=true" />
+  <img alt="github stats" height="150px" src="https://readme-vercel.nrr.moe/api?username=NarYuki&show_icons=true&theme=vue&count_private=true&include_all_commits=true" />
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NarYuki&theme=vue)](https://git.io/streak-stats)
